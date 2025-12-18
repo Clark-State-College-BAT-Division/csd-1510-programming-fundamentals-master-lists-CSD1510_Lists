@@ -1,5 +1,6 @@
 #Create two seperate lists for player one and player two. 
 #Each one should contain 10 random numbers between 1 and 50.
+#Again, your lists should be random numbers
 #Do NOT sort the lists.
 #Compare the lists in order. Whichever list has the higher number wins.
 #Keep track of how many times each list wins.
