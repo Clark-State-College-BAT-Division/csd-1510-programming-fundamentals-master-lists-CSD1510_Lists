@@ -3,3 +3,4 @@
 #Calculate and display the mean and median
 #This is a guided practice. You can follow the video or your instructor will go
 #over this in class
+# video url: https://youtu.be/VGrRdUunjXg
